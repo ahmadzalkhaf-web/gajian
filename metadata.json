@@ -1,0 +1,6 @@
+{
+  "name": "GAJIKU",
+  "description": "Sistem Manajemen Penggajian Karyawan terintegrasi Google Spreadsheet dengan perhitungan gaji real-time, slip gaji karyawan, dan ekspor laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
